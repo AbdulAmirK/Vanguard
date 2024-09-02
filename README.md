@@ -33,7 +33,6 @@ Before this starting this project, you should have learnt about:
 Demo
 
 <div align="center">
-<img width="420" alt="Screenshot 2024-08-27 at 23 21 33" src="https://github.com/user-attachments/assets/ed0c7b2b-dbc1-4191-bb81-af51829796d4"> <img width="478" alt="Screenshot 2024-08-27 at 23 21 17" src="https://github.com/user-attachments/assets/d4f39947-2463-49a0-a724-808b5523dcb3">
 </div>
 
 <br>
