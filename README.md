@@ -76,7 +76,6 @@ Created New Features like age groups
 ## Deliverables
 - Complete and clean notebook(s) containing the code, analysis, and visualizations
 - Database: The exported .sql file with SQL Queries
-- Entity relationship diagram (ERD)
 - Python files
 - Jupyter notebook containing the report in full with visualizations
 - A README file with a thorough project documentation.
