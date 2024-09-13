@@ -30,7 +30,9 @@ Before this starting this project, you should have learnt about:
 
 ## Introduction
 
-Demo
+Vanguard, a prominent U.S.-based investment management company, embarked on a journey to evolve digital experience with the goal of enhancing client engagement.
+Recognizing the rapidly changing digital landscape, we aimed to refine our online process with a sleeker, more intuitive User Interface (UI). This strategic move was driven by our commitment to meeting the growing needs of our clients and ensuring a more seamless navigation experience across our digital platform.
+
 
 <div align="center">
 </div>
@@ -43,17 +45,20 @@ Demo
 
 
 ### Acknowledgements
-Dataset source:
-Demo
+Dataset source:Client Profiles, Digital Footprints, Experiment Roster
 
-
-### Inspiration
-Demo
+Cleaning & Merging
+Corrected Data Types
+Removed Duplicate Rows
+Handled Missing Values
+Filtered Outliers
+Split Data such as date & time
+Created New Features like age groups
 
 
 ## About the dataset
 ### Dataset Description
--Demo
+-Client Profiles, Digital Footprints, Experiment Roster
 
 
 ## Tools and Technologies Used
@@ -62,6 +67,7 @@ Demo
 - Matplotlib & Seaborn: Utilized for generating visualizations.
 - Jupyter Notebook and Google Colab: Served as the interactive environment for code execution and data exploration.
 - SQL Workbench
+- Tableau
 
 
 ## Findings and Conclusions
