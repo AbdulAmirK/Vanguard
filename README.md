@@ -41,7 +41,7 @@ Recognizing the rapidly changing digital landscape, we aimed to refine our onlin
 
 
 ### Project Overview
-Demo
+The project centers on analyzing the impact of a new User Interface (UI) design on the online process completion rates at Vanguard, an investment management company. By conducting an A/B test comparing traditional ("Control") and revised ("Test") UIs, the study aimed to determine if the new design enhances user experience and engagement. Initial analyses focused on demographic insights and engagement patterns, followed by detailed examinations of completion rates, regressions at specific process steps, and overall user behavior. The observed improvement in completion rates for the Test group exceeded Vanguard’s minimum effectiveness threshold, indicating the new UI's potential benefit. However, distinct regression points identified for each group—step 3 for Control and step 1 for Test—highlighted specific areas requiring optimization. The project underscores the importance of continuous UI refinement to improve user navigation and process completion, aligning with broader objectives of increased engagement and potential revenue growth.
 
 
 ### Acknowledgements
