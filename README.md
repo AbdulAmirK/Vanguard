@@ -71,6 +71,10 @@ Created New Features like age groups
 
 
 ## Findings and Conclusions
+- The 6.20% improvement in the completion rate for the Test group, with the new UI design, significantly exceeds Vanguard's minimum threshold of 5%. 
+This indicates that the redesign is not only cost- effective, per Vanguard's criteria, but also beneficial for enhancing user engagement and potentially increasing revenue.
+
+- Tableau graphical representation - https://public.tableau.com/views/W05GP-Marco0911/VanguardABtest?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
 ## Deliverables
